@@ -39,25 +39,78 @@
     return related;
   }
 
-  function scoreNote(note, query) {
-    const words = tokens(query);
-    if (!words.length) return 1;
-    const haystack = new Set(tokens(note.text + ' ' + (note.tags || []).join(' ')));
-    let points = 0;
-    for (const word of words) {
-      if (haystack.has(word)) points += 3;
-      else if ([...relatedTerms(word)].some(term => haystack.has(term))) points += 1.4;
+  function isNearMatch(queryWord, noteWord) {
+    if (queryWord.length >= 3 && noteWord.startsWith(queryWord)) return true;
+    if (queryWord.length >= 4 && noteWord.length >= 4 && noteWord.includes(queryWord)) return true;
+    if (Math.abs(queryWord.length - noteWord.length) > 1 || queryWord.length < 5) return false;
+
+    let previous = Array.from({ length: noteWord.length + 1 }, (_, index) => index);
+    for (let i = 1; i <= queryWord.length; i++) {
+      const current = [i];
+      let rowMinimum = i;
+      for (let j = 1; j <= noteWord.length; j++) {
+        const cost = queryWord[i - 1] === noteWord[j - 1] ? 0 : 1;
+        current[j] = Math.min(current[j - 1] + 1, previous[j] + 1, previous[j - 1] + cost);
+        rowMinimum = Math.min(rowMinimum, current[j]);
+      }
+      if (rowMinimum > 1) return false;
+      previous = current;
     }
-    return points / words.length;
+    return previous[noteWord.length] <= 1;
+  }
+
+  function evaluateNote(note, query) {
+    const words = tokens(query);
+    if (!words.length) return { score: 1, matchType: 'exact' };
+    const noteWords = tokens(note.text + ' ' + (note.tags || []).join(' '));
+    const haystack = new Set(noteWords);
+    let points = 0;
+    let exactCount = 0;
+    let closeCount = 0;
+    let relatedCount = 0;
+
+    for (const word of words) {
+      if (haystack.has(word)) {
+        points += 3;
+        exactCount += 1;
+      } else if (noteWords.some(noteWord => isNearMatch(word, noteWord))) {
+        points += 2;
+        closeCount += 1;
+      } else if ([...relatedTerms(word)].some(term => haystack.has(term))) {
+        points += 1.4;
+        relatedCount += 1;
+      }
+    }
+
+    const matchedCount = exactCount + closeCount;
+    const enoughCloseTerms = matchedCount > 0 && matchedCount >= Math.ceil(words.length / 2);
+    const matchType = exactCount === words.length
+      ? 'exact'
+      : enoughCloseTerms
+        ? 'close'
+        : relatedCount > 0
+          ? 'related'
+          : null;
+
+    return { score: points / words.length, matchType };
+  }
+
+  function scoreNote(note, query) {
+    return evaluateNote(note, query).score;
   }
 
   function searchNotes(notes, query, options = {}) {
     const limit = Number.isFinite(options.limit) ? Math.max(0, options.limit) : Infinity;
     const offset = Number.isFinite(options.offset) ? Math.max(0, options.offset) : 0;
     const ranked = notes
-      .map(note => ({ note, score: scoreNote(note, query) }))
-      .filter(result => !query.trim() || result.score > 0)
-      .sort((a, b) => b.score - a.score || new Date(b.note.created) - new Date(a.note.created));
+      .map(note => ({ note, ...evaluateNote(note, query) }))
+      .filter(result => !query.trim() || result.matchType !== null)
+      .sort((a, b) => {
+        const tier = { exact: 0, close: 1, related: 2 };
+        return tier[a.matchType] - tier[b.matchType]
+          || b.score - a.score
+          || new Date(b.note.created) - new Date(a.note.created);
+      });
     return { total: ranked.length, results: ranked.slice(offset, offset + limit) };
   }
 
