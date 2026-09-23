@@ -14,3 +14,7 @@ Open the [live demo](https://mesmoraz.github.io/notesApp/) on a phone or desktop
 
 This prototype has no account system or server-side storage. Avoid entering anything sensitive.
 
+## Run the tests
+
+With Node.js installed, run `node --test tests/notes-core.test.cjs`. The suite includes a 50,000-note in-memory search stress case and large note-body coverage. In the app, lists render 100 notes at a time; use **Show more notes** to continue through larger result sets.
+
