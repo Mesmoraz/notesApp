@@ -4,7 +4,7 @@ A small, responsive notes app prototype designed to make quick capture and later
 
 ## Try the prototype
 
-Open the GitHub Pages link (once deployed) on a phone or desktop browser. The demo starts with a few sample notes. Type in the capture box to add your own, then search by phrase or try one of the suggested searches.
+Open the [live demo](https://mesmoraz.github.io/notesApp/) on a phone or desktop browser. It starts with a few sample notes. Type in the capture box to add your own, then search by phrase or try one of the suggested searches.
 
 ## Prototype limits
 
