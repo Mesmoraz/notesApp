@@ -1,0 +1,5403 @@
+[
+  {
+    "id": "demo-0001",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-23T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0002",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-04T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0003",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-16T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0004",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0005",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0006",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0007",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0008",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-05-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0009",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0010",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0011",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-13T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0012",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-25T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0013",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-06T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0014",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0015",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0016",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0017",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0018",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-05-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0019",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0020",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-22T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0021",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-03T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0022",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-15T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0023",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0024",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0025",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0026",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-31T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0027",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0028",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-04-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0029",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0030",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-12T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0031",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-24T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0032",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-05T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0033",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0034",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0035",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0036",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0037",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0038",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-04-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0039",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-21T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0040",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-02T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0041",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-14T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0042",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0043",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0044",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0045",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0046",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0047",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0048",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-04-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0049",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-11T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0050",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-23T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0051",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-04T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0052",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0053",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0054",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0055",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0056",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0057",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0058",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-09-20T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0059",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-01T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0060",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-13T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0061",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0062",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0063",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0064",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0065",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0066",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0067",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0068",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-09-10T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0069",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-22T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0070",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-03T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0071",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0072",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0073",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0074",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0075",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0076",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0077",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-19T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0078",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-08-31T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0079",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-12T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0080",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0081",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0082",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0083",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0084",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0085",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0086",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0087",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-09T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0088",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-08-21T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0089",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-02T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0090",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0091",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0092",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0093",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0094",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0095",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0096",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-18T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0097",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-30T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0098",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-08-11T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0099",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0100",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0101",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0102",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0103",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0104",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0105",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-03-31T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0106",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-08T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0107",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-20T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0108",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-08-01T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0109",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0110",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0111",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0112",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0113",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0114",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0115",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-17T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0116",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-29T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0117",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-10T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0118",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-07-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0119",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0120",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0121",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0122",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0123",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0124",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-03-30T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0125",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-07T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0126",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-19T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0127",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-31T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0128",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-07-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0129",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0130",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0131",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0132",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0133",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0134",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-16T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0135",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-28T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0136",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-09T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0137",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0138",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-07-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0139",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0140",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0141",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0142",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0143",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-03-29T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0144",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-06T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0145",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-18T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0146",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0147",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0148",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-06-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0149",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0150",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0151",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0152",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0153",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-15T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0154",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-27T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0155",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-08T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0156",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0157",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0158",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-06-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0159",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0160",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0161",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0162",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-03-28T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0163",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-05T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0164",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-17T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0165",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0166",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0167",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0168",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-06-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0169",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0170",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0171",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0172",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-14T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0173",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-26T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0174",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-07T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0175",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0176",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0177",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0178",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-05-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0179",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0180",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0181",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-23T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0182",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-04T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0183",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-16T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0184",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0185",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0186",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0187",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0188",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-05-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0189",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0190",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0191",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-13T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0192",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-25T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0193",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-06T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0194",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0195",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0196",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0197",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0198",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-05-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0199",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0200",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-22T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0201",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-03T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0202",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-15T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0203",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0204",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0205",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0206",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-31T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0207",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0208",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-04-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0209",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0210",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-12T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0211",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-24T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0212",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-05T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0213",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0214",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0215",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0216",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0217",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0218",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-04-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0219",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-21T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0220",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-02T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0221",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-14T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0222",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0223",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0224",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0225",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0226",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0227",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0228",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-04-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0229",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-11T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0230",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-23T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0231",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-04T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0232",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0233",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0234",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0235",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0236",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0237",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0238",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-09-20T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0239",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-01T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0240",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-13T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0241",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0242",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0243",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0244",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0245",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0246",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0247",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0248",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-09-10T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0249",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-22T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0250",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-03T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0251",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0252",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0253",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0254",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0255",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0256",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0257",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-19T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0258",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-08-31T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0259",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-12T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0260",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0261",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0262",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0263",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0264",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0265",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0266",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0267",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-09T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0268",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-08-21T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0269",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-02T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0270",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0271",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0272",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0273",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0274",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0275",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0276",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-18T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0277",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-30T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0278",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-08-11T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0279",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0280",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0281",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0282",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0283",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0284",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0285",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-03-31T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0286",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-08T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0287",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-20T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0288",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-08-01T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0289",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0290",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0291",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0292",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0293",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0294",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0295",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-17T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0296",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-29T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0297",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-10T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0298",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-07-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0299",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0300",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0301",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0302",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0303",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0304",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-03-30T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0305",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-07T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0306",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-19T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0307",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-31T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0308",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-07-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0309",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0310",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0311",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0312",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0313",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0314",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-16T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0315",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-28T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0316",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-09T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0317",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0318",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-07-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0319",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0320",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0321",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0322",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0323",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-03-29T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0324",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-06T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0325",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-18T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0326",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0327",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0328",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-06-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0329",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0330",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0331",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0332",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0333",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-15T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0334",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-27T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0335",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-08T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0336",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0337",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0338",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-06-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0339",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0340",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0341",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0342",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-03-28T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0343",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-05T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0344",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-17T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0345",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0346",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0347",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0348",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-06-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0349",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0350",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0351",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0352",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-14T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0353",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-26T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0354",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-07T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0355",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0356",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0357",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0358",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-05-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0359",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0360",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0361",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-23T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0362",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-04T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0363",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-16T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0364",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0365",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0366",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0367",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0368",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-05-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0369",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0370",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0371",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-13T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0372",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-25T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0373",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-06T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0374",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0375",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0376",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0377",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0378",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-05-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0379",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0380",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-22T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0381",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-03T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0382",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-15T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0383",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0384",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0385",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0386",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-31T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0387",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0388",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-04-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0389",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0390",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-12T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0391",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-24T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0392",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-05T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0393",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0394",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0395",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0396",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0397",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0398",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-04-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0399",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-21T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0400",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-02T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0401",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-14T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0402",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0403",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0404",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0405",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0406",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0407",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0408",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-04-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0409",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-11T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0410",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-23T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0411",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-04T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0412",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0413",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0414",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0415",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0416",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0417",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0418",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-09-20T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0419",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-01T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0420",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-13T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0421",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0422",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0423",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0424",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0425",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0426",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0427",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0428",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-09-10T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0429",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-22T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0430",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-03T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0431",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0432",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0433",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0434",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0435",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0436",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0437",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-19T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0438",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-08-31T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0439",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-12T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0440",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0441",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-07-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0442",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0443",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0444",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-05-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0445",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0446",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-04-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0447",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-09-09T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0448",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-08-21T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0449",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-08-02T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0450",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0451",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-25T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0452",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-06-06T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0453",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0454",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-29T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0455",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-04-10T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0456",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-18T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0457",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-30T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0458",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-08-11T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0459",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0460",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-07-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0461",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-15T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0462",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0463",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-05-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0464",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-19T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0465",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-03-31T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0466",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-09-08T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0467",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-20T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0468",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-08-01T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0469",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0470",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-24T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0471",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-06-05T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0472",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0473",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-28T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0474",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-04-09T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0475",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-17T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0476",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-29T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0477",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-08-10T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0478",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-07-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0479",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-07-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0480",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-14T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0481",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0482",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-05-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0483",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-18T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0484",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-03-30T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0485",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-09-07T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0486",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-19T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0487",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-31T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0488",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-07-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0489",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-23T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0490",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-06-04T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0491",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0492",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-27T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0493",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-04-08T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0494",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-16T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0495",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-28T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0496",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-08-09T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0497",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0498",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-07-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0499",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-13T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0500",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0501",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-05-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0502",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-17T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0503",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-03-29T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0504",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-09-06T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0505",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-18T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0506",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0507",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0508",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-06-22T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0509",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-06-03T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0510",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0511",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-26T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0512",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-04-07T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0513",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-15T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0514",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-27T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0515",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-08-08T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0516",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0517",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-07-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0518",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-06-12T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0519",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0520",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-05-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0521",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-16T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0522",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-03-28T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0523",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-09-05T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0524",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-17T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0525",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0526",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-07-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0527",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-21T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0528",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-06-02T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0529",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0530",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-25T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0531",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-04-06T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0532",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-14T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0533",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-26T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0534",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-08-07T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0535",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0536",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-30T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0537",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-11T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0538",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-05-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0539",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-05-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0540",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-15T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0541",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-23T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0542",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-09-04T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0543",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-16T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0544",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0545",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-07-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0546",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-20T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0547",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-06-01T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0548",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-05-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0549",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-24T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0550",
+    "text": "Playlist thought: add the mellow guitar track 10 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-04-05T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0551",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-13T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0552",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-25T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0553",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-08-06T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0554",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0555",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-29T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0556",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-06-10T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0557",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0558",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-05-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0559",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-14T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0560",
+    "text": "Playlist thought: add the mellow guitar track 8 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-22T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0561",
+    "text": "Gift idea for Sam: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-09-03T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0562",
+    "text": "Try Maple Market for lunch. Jordan said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-15T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0563",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0564",
+    "text": "Book recommendation from Taylor: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-07-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0565",
+    "text": "Follow up with Casey about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-19T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0566",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-31T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0567",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0568",
+    "text": "Idea to remember: explain the new concept with a simple example first. Riley said that made the last talk easier to follow.",
+    "created": "2026-04-23T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0569",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-04-04T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0570",
+    "text": "Playlist thought: add the mellow guitar track 6 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-12T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0571",
+    "text": "Gift idea for Alex: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-24T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0572",
+    "text": "Try Maple Market for lunch. Casey said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-08-05T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0573",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-17T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0574",
+    "text": "Book recommendation from Sam: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-28T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0575",
+    "text": "Follow up with Jamie about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-06-09T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0576",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-21T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0577",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-05-02T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0578",
+    "text": "Idea to remember: explain the new concept with a simple example first. Taylor said that made the last talk easier to follow.",
+    "created": "2026-04-13T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0579",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-21T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0580",
+    "text": "Playlist thought: add the mellow guitar track 4 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-09-02T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0581",
+    "text": "Gift idea for Riley: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-14T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0582",
+    "text": "Try Maple Market for lunch. Jamie said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-26T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0583",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 3. They attract pollinators and the flowers are edible.",
+    "created": "2026-07-07T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0584",
+    "text": "Book recommendation from Alex: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-18T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0585",
+    "text": "Follow up with Maya about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-30T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0586",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-11T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0587",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-22T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0588",
+    "text": "Idea to remember: explain the new concept with a simple example first. Sam said that made the last talk easier to follow.",
+    "created": "2026-04-03T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0589",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-11T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0590",
+    "text": "Playlist thought: add the mellow guitar track 2 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-23T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0591",
+    "text": "Gift idea for Taylor: the small instant camera from Juniper Cafe. Add a pack of color film.",
+    "created": "2026-08-04T12:00:00.000Z",
+    "tags": [
+      "people · Sam",
+      "gift idea"
+    ]
+  },
+  {
+    "id": "demo-0592",
+    "text": "Try Maple Market for lunch. Maya said the roasted tomato sandwich is good and it is quiet enough to talk.",
+    "created": "2026-07-16T12:00:00.000Z",
+    "tags": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0593",
+    "text": "Garden thought: plant nasturtiums beside the tomatoes in bed 1. They attract pollinators and the flowers are edible.",
+    "created": "2026-06-27T12:00:00.000Z",
+    "tags": [
+      "garden",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0594",
+    "text": "Book recommendation from Riley: Steal Like an Artist. A short read about creativity and collecting inspiration.",
+    "created": "2026-06-08T12:00:00.000Z",
+    "tags": [
+      "books",
+      "creativity"
+    ]
+  },
+  {
+    "id": "demo-0595",
+    "text": "Follow up with Jordan about the project sketch after the Thursday check-in. Ask whether the blue version is easier to read.",
+    "created": "2026-05-20T12:00:00.000Z",
+    "tags": [
+      "work",
+      "follow-up"
+    ]
+  },
+  {
+    "id": "demo-0596",
+    "text": "Recipe note: roast chickpeas with smoked paprika, lemon, and olive oil. Serve with greens when the week gets busy.",
+    "created": "2026-05-01T12:00:00.000Z",
+    "tags": [
+      "recipes",
+      "food"
+    ]
+  },
+  {
+    "id": "demo-0597",
+    "text": "Weekend idea: take the early train to Maple Market, walk by the water, then find a bakery before heading home.",
+    "created": "2026-04-12T12:00:00.000Z",
+    "tags": [
+      "travel",
+      "places"
+    ]
+  },
+  {
+    "id": "demo-0598",
+    "text": "Idea to remember: explain the new concept with a simple example first. Alex said that made the last talk easier to follow.",
+    "created": "2026-09-20T12:00:00.000Z",
+    "tags": [
+      "learning",
+      "ideas"
+    ]
+  },
+  {
+    "id": "demo-0599",
+    "text": "Home reminder: measure the shelf beside the desk before looking for storage boxes. The opening is probably narrower than it looks.",
+    "created": "2026-09-01T12:00:00.000Z",
+    "tags": [
+      "home",
+      "reminder"
+    ]
+  },
+  {
+    "id": "demo-0600",
+    "text": "Playlist thought: add the mellow guitar track 12 from the cafe set. Good background music for a slow Sunday morning.",
+    "created": "2026-08-13T12:00:00.000Z",
+    "tags": [
+      "music",
+      "ideas"
+    ]
+  }
+]
+
