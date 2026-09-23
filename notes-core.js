@@ -76,6 +76,51 @@
     return tags.slice(0, 3);
   }
 
-  return { inferTags, scoreNote, searchNotes, tokens };
+  function newId() {
+    return globalThis.crypto && globalThis.crypto.randomUUID
+      ? globalThis.crypto.randomUUID()
+      : `${Date.now()}-${Math.random().toString(16).slice(2)}`;
+  }
+
+  function noteFromJson(item, now) {
+    if (!item || typeof item !== 'object') return null;
+    const body = item.text ?? item.body ?? item.content;
+    if (typeof body !== 'string' || !body.trim()) return null;
+    const text = typeof item.title === 'string' && item.title.trim()
+      ? `${item.title.trim()}\n\n${body}`
+      : body;
+    const tags = Array.isArray(item.tags)
+      ? item.tags.filter(tag => typeof tag === 'string')
+      : inferTags(text);
+    return {
+      id: newId(),
+      text,
+      created: item.created && Number.isFinite(Date.parse(item.created))
+        ? new Date(item.created).toISOString()
+        : now,
+      tags
+    };
+  }
+
+  async function parseImportedFiles(files, now = new Date().toISOString()) {
+    const notes = [];
+    for (const file of files) {
+      const content = await file.text();
+      const extension = file.name.split('.').pop().toLowerCase();
+      if (extension === 'json') {
+        const data = JSON.parse(content);
+        const items = Array.isArray(data) ? data : Array.isArray(data.notes) ? data.notes : [data];
+        for (const item of items) {
+          const note = noteFromJson(item, now);
+          if (note) notes.push(note);
+        }
+      } else if (['md', 'markdown', 'txt'].includes(extension) && content.trim()) {
+        notes.push({ id: newId(), text: content.trim(), created: now, tags: inferTags(content) });
+      }
+    }
+    return notes;
+  }
+
+  return { inferTags, parseImportedFiles, scoreNote, searchNotes, tokens };
 });
 
